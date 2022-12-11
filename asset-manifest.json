@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/personal-website-2022/static/css/main.90abd742.css",
+    "main.js": "/personal-website-2022/static/js/main.9ad546f8.js",
+    "static/js/787.5809834d.chunk.js": "/personal-website-2022/static/js/787.5809834d.chunk.js",
+    "static/media/photo-me.jpg": "/personal-website-2022/static/media/photo-me.410558bb7d42e50d23be.jpg",
+    "static/media/Poppins-ExtraLight.ttf": "/personal-website-2022/static/media/Poppins-ExtraLight.94b768c07879dde09ab4.ttf",
+    "static/media/Poppins-Regular.ttf": "/personal-website-2022/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/personal-website-2022/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/personal-website-2022/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/NunitoSans-Regular.ttf": "/personal-website-2022/static/media/NunitoSans-Regular.87d9266583abd389ca1f.ttf",
+    "static/media/NunitoSans-ExtraLight.ttf": "/personal-website-2022/static/media/NunitoSans-ExtraLight.22307f8ccc4ba46e72eb.ttf",
+    "static/media/NunitoSans-Light.ttf": "/personal-website-2022/static/media/NunitoSans-Light.7f9eed4cca4d0ae6a772.ttf",
+    "static/media/CoveredByYourGrace-Regular.ttf": "/personal-website-2022/static/media/CoveredByYourGrace-Regular.7b6d6931a0ea2fa10236.ttf",
+    "static/media/PoiretOne-Regular.ttf": "/personal-website-2022/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
+    "static/media/sql-server.png": "/personal-website-2022/static/media/sql-server.aa484baeefbe583572a3.png",
+    "static/media/csharp.png": "/personal-website-2022/static/media/csharp.80f80e421c7af59a76ea.png",
+    "static/media/vs.png": "/personal-website-2022/static/media/vs.9ff7b502e31a228d7f49.png",
+    "static/media/vs-code.png": "/personal-website-2022/static/media/vs-code.02e4f4ae01300a71555c.png",
+    "static/media/java.png": "/personal-website-2022/static/media/java.bb7d79018b1646455f87.png",
+    "static/media/github.png": "/personal-website-2022/static/media/github.2d1f9c7160fc8933ea3e.png",
+    "static/media/css3.png": "/personal-website-2022/static/media/css3.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/personal-website-2022/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/personal-website-2022/index.html",
+    "main.90abd742.css.map": "/personal-website-2022/static/css/main.90abd742.css.map",
+    "main.9ad546f8.js.map": "/personal-website-2022/static/js/main.9ad546f8.js.map",
+    "787.5809834d.chunk.js.map": "/personal-website-2022/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90abd742.css",
+    "static/js/main.9ad546f8.js"
+  ]
+}

@@ -1,0 +1,119 @@
+div#about-me {
+    background-color: rgb(250, 250, 250);
+}
+
+div.about-me-body {
+    width: 100%;
+    margin: auto;
+    padding-top: 75px;
+    display: block;
+    color: black;
+}
+
+div.body-item {
+    display: inline-block;
+    width: 300px;
+    height: 450px;
+    margin-left: 50px;
+}
+
+.about-me-img {
+    width: 100%;
+    height: auto;
+}
+
+#about-desc {
+    margin-right: 50px;
+    width: 450px;
+    vertical-align: top;
+}
+
+.body-text {
+    margin-top: 75px;
+    text-align: left;
+}
+
+p {
+    font-family: "Nunito-Light";
+    font-size: 15px;
+    line-height: 1.9em;
+    color: rgb(110, 110, 110);
+}
+
+.body-text h1 {
+    margin-bottom: 20px;
+}
+
+h1.about-me-title {
+    font-size: 35px;
+}
+
+.contact-email {
+    color: rgb(0, 0, 0);
+}
+
+.contact-email:hover {
+    color: #55828b;
+}
+
+.contact-icon {
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+}
+
+@media screen and (max-width: 1080px) {
+    div.body-item {
+        display: block;
+        margin: auto;
+    }
+
+    #about-desc {
+        display: block;
+        margin: auto;
+        height: 100%;
+    }
+
+    .body-text {
+        margin: 100px auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    div.body-item {
+        width: 50%;
+        height: auto;
+    }
+
+    div.body-item .about-me-img {
+        width: 100%;
+        height: auto;
+    }
+
+    #about-desc {
+        width: 60%;
+    }
+
+    .body-text {
+        margin: 80px auto;
+        text-align: center;
+    }
+
+    p {
+        font-family: "Nunito-Light";
+        font-size: 15px;
+        line-height: 1.9em;
+        color: rgb(110, 110, 110);
+    }
+
+    h1.about-me-title {
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    div.body-item {
+        width: 70%;
+    }
+}

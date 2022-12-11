@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+        "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+@font-face {
+    font-family: "PoiretOne";
+    src: local("PoiretOne"), url(./assets/fonts/PoiretOne/PoiretOne-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Grace";
+    src: local("CoveredByYourGrace"),
+        url(./assets/fonts/CoveredByYourGrace/CoveredByYourGrace-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: local("Poppins"), url(./assets/fonts/Poppins/Poppins-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: local("Poppins"), url(./assets/fonts/Poppins/Poppins-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: local("Poppins"), url(./assets/fonts/Poppins/Poppins-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins-Extra-Light";
+    src: local("Poppins"), url(./assets/fonts/Poppins/Poppins-ExtraLight.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Nunito-ExtraLight";
+    src: local("NunitoSans"),
+        url(./assets/fonts/NunitoSans/NunitoSans-ExtraLight.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Nunito-Light";
+    src: local("NunitoSans"), url(./assets/fonts/NunitoSans/NunitoSans-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Nunito-Regular";
+    src: local("NunitoSans"),
+        url(./assets/fonts/NunitoSans/NunitoSans-Regular.ttf) format("truetype");
+}
+
+html,
+body,
+#root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: rgb(250, 250, 250);
+}
+
+.footer {
+    text-align: center;
+    margin-top: 100px;
+    padding: 1rem;
+    width: 100%;
+}

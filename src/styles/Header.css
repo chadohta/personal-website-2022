@@ -1,0 +1,21 @@
+.site-title {
+    font-family: "PoiretOne", sans-serif;
+    font-size: 54px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    height: 150px;
+    line-height: 150px;
+    letter-spacing: 4px;
+}
+
+@media screen and (max-width: 500px) {
+    .site-title {
+        font-size: 32px;
+        line-height: normal;
+        margin: 50px auto;
+        height: auto;
+    }
+}
